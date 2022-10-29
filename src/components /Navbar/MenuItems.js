@@ -1,8 +1,8 @@
-const MenuItems = [
+export const MenuItems = [
     {
-        title : "Home" ,
-        url :"#" ,
-
+        title: 'Home',
+        url: '#',
+        Cname: 'nav-links',
     }
 
 ]

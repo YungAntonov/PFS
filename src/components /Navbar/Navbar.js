@@ -1,4 +1,6 @@
 import React, { Component } from "react";
+import { MenuItems } from "./MenuItems"
+
 
 class Navbar extends Component {
 
@@ -11,7 +13,8 @@ class Navbar extends Component {
 
                 </div>
                 <ul>
-                    <li> <a href=""> </a> </li>
+                    
+                    <li> <a className="item.cName"> </a> </li>
                 </ul>
             </nav>
         )
@@ -19,3 +22,5 @@ class Navbar extends Component {
     }
 
 }
+
+export default Navbar
