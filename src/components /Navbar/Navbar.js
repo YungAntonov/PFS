@@ -23,7 +23,6 @@ class Navbar extends Component {
                             </li>
                             
                         )
-
                     })}
                     
                     
