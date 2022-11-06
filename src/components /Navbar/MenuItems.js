@@ -1,18 +1,18 @@
 export const MenuItems = [
     {
-        title: 'Home',
+        title: 'Le meilleur PM de Paname',
         url: '#',
         Cname: 'nav-links',
     },
 
     {
-        title: 'Les PD du jour',
+        title: 'Mes expériences',
         url: '#',
         Cname: 'nav-links',
     },
 
     {
-        title: 'Conseils de Océ',
+        title: 'En dehors du produit',
         url: '#',
         Cname: 'nav-links',
     },
