@@ -9,3 +9,10 @@
 
 }
 
+.navbar-logo {
+    color: rgb(205, 21, 42);
+    justify-self: start;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
