@@ -1,15 +1,15 @@
-import React, { Component } from "react";
+import React, { Component } from 'react';
 import {MenuItems} from "./MenuItems"
-
+import'./Navbar.css'
 
 class Navbar extends Component {
 
     render () {
         return (
-            <nav className = "NavbarItems">
-                <h1 className="navbarlogo"> zizi </h1>
+            <nav className= "NavbarItems">
+                <h1 className="navbarlogo">Antoine Bonnat<i className="fab fa-react"></
+                i></h1>
                 <div className="menu-icon">
-
 
                 </div>
                 <ul>
@@ -21,11 +21,8 @@ class Navbar extends Component {
                                         {item.title}
                                 </a> 
                             </li>
-                            
-                        )
+                             )
                     })}
-                    
-                    
                 </ul>
             </nav>
         )
@@ -35,3 +32,4 @@ class Navbar extends Component {
 }
 
 export default Navbar
+
