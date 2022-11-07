@@ -7,8 +7,9 @@ class Navbar extends Component {
     render () {
         return (
             <nav className= "NavbarItems">
+                
                 <h1 className="navbarlogo">Antoine Bonnat </h1>
-                <div className='imglogo'> <img src="./Antoine.jpeg" width={100} height={100} alt='arf'></img> 
+                <div className='imglogo'> <img src="./Antoine.jpeg" width={100} height={90} alt='arf'></img> 
                                                          </div> 
                 <div className="menu-icon">
 
