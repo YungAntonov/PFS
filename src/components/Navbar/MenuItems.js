@@ -1,19 +1,19 @@
 export const MenuItems = [
     {
         title: 'Le meilleur PM de Paname',
-        url: '#',
+        url: '/LMPDP',
         Cname: 'nav-links',
     },
 
     {
         title: 'Mes expériences',
-        url: '#',
+        url: '/XP',
         Cname: 'nav-links',
     },
 
     {
         title: 'En dehors du produit',
-        url: '#',
+        url: '/EDDP',
         Cname: 'nav-links',
     },
 ]

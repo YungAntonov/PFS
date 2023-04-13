@@ -5,7 +5,7 @@ const Button = () => {
   const [number, setNumber] = useState(1);
 
   const handleClick = () => {
-    setNumber(number + 2);
+    setNumber(number + 1);
   };
 
   return (
