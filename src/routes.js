@@ -1,4 +1,4 @@
-import LMPDP from '/Users/antonov/Project/pfs/src/LeMeilleurPMDePanamePage/LMPDP.js'
+import LMPDP from '/Users/antoinebonnat/Documents/Dev/ChaosV1/PFS/src/LeMeilleurPMDePanamePage/LMPDP.js'
 
 export const routes = [
   {
